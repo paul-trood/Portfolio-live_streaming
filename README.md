@@ -69,7 +69,7 @@ This project aims to analyze video game performance on Twitch and Steam to help 
 - Explore additional data sources to enhance insights (e.g., YouTube gaming statistics).
 
 ## Author
-[Your Name]
+Paul Trood
 
 ## License
 This project is licensed under the MIT License.
